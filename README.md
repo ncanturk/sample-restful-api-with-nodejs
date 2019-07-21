@@ -1,1 +1,1 @@
-# sample-restfull-api-with-nodejs
+# sample-restful-api-with-nodejs
